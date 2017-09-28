@@ -17,4 +17,4 @@ But to achieve this in a scale that is big enough for the database to be conside
 to this open source project.
 
 ## CONTRIBUTION
-Contributing to the Product Crawler is a SIMPLE and EASY process. For more details read the CONTRIBUTING.md.
+Contributing to the Product Crawler is a SIMPLE and EASY process. For more details read the CONTRIBUTING.md. (https://github.com/ProductCrawler/product_crawler/blob/master/CONTRIBUTING.md)
