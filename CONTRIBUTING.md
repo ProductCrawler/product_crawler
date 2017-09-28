@@ -18,7 +18,7 @@ b) You can find it on an official product website
    http://www.marschocolate.com.au/products/mars/mars-bar-36g/
    
 ## Step 3 - Recording Product Info
-Open the product_info_template.txt.
+Open the product_info_template.txt. (https://github.com/ProductCrawler/product_crawler/blob/master/product_info_template.txt)
 
 All the product information needed to be recorded and its format is found in this text file.
 
