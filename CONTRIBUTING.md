@@ -10,7 +10,7 @@ Once you have found the item of your choice there are two valid ways you can loc
 
 a) You can find it on the product's label or
 
-b) You can find it on an official product website
+b) You can find it on an official product website.
    Some useful websites are listed below: 
    
    http://www.pepsicobeveragefacts.com/
@@ -28,13 +28,13 @@ Please maintain the format in which the information is written down in the text,
 To make a PR you will need two files, a text file and a png file.
 
 The text file you will need to submit is the one described in Step 3. Name the file product_name.txt, for example if you chose
-the Cheerios cereal the file would be cheerios.txt 
+the Honey Cheerios cereal the file would be honey_cheerios.txt 
 
 The png file is a picture of the product's information. This can be either a clear picture of the product's label or a screenshot
 of the product information from an official product website.  Name the second file product_name.png, so for the previews example it 
-would have been cheerios.png
+would have been honey_cheerios.png
 
-Put the two files into a folder named product_name (example cheerios) and make your Pull Request.
+Put the two files into a folder named product_name (example Honey Cheerios) and make your Pull Request.
 
 You are ready to go.
 
