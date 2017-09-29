@@ -35,7 +35,7 @@ of the product information from an official product website.  Name the second fi
 would have been honey_cheerios.png
 
 Put the two files into a folder named with the following format: "Product Name (distributed country(ies), date inserted)" and make your Pull Request.
-Example: "Honey Cheerios (U.S.A., Germany, France, 29.09.17)", 
+Example: "Honey Cheerios (U.S.A., Germany, France, 29.09.17)"
 
 You are ready to go.
 
