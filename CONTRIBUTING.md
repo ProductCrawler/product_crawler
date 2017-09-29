@@ -34,7 +34,8 @@ The png file is a picture of the product's information. This can be either a cle
 of the product information from an official product website.  Name the second file product_name.png, so for the previews example it 
 would have been honey_cheerios.png
 
-Put the two files into a folder named product_name (example Honey Cheerios) and make your Pull Request.
+Put the two files into a folder named with the following format: "Product Name (distributed country(ies), date inserted)" and make your Pull Request.
+Example: "Honey Cheerios (U.S.A., Germany, France, 29.09.17)", 
 
 You are ready to go.
 
