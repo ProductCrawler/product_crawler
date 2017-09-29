@@ -4,7 +4,7 @@ Product_Type; Hygiene
 
 Specific_Product_Type; Mouthwash
 
-Ingredients; Water, sorbitol solution, propylene glycol, sodium lauryl sulfate, poloxamer 407, benzoic acid, eucalyptol, sodium benzoate, sodium saccharin, thymol, methyl salicylate, menthol, flavor, sucralose, and green 3
+Ingredients; Water, sorbitol solution, propylene glycol, sodium lauryl sulfate, poloxamer 407, benzoic acid, eucalyptol, sodium benzoate, sodium saccharin, thymol, methyl salicylate, menthol, flavor, sucralose and green 3
 
 Nutritional_Value; None
 
