@@ -11,7 +11,7 @@ This open source project aims on creating a database that stores important infor
 only food, edible products). Product information such as the ingredients, the nutritional value, conservatives, family companies etc.
 
 ## PROJECT GOAL 
-Our goal is to integrate the database into a website (currently on https://productcrawler.wixsite.com/home) that can be used by anybody to check the QUALITY of the products in the market. It is
+Our goal is to integrate the database into a website (currently on https://productcrawler.wixsite.com/home and on our new app https://play.google.com/store/apps/details?id=appeiro.productcrawler) that can be used by anybody to check the QUALITY of the products in the market. It is
 our RIGHT as consumers to have easy access to the knowledge of what we eat, what we drink, what we put on our face and hair...
 But to achieve this in a scale that is big enough for the database to be considered useful and practical, we count on your contributions
 to this open source project.
