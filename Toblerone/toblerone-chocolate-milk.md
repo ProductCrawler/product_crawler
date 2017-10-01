@@ -4,7 +4,7 @@ Product_Type; Food, Drinks & Beverages
 
 Specific_Product_Type; Chocolate
 
-Ingredients; MILK CHOCOLATE (SUGAR, MILK, COCOA BUTTER, CHOCOLATE, MILKFAT, SOY LECITHIN-AN EMULSIFIER, VANILLIN-AN ARTIFICIAL FLAVOR), SUGAR, HONEY, ALMONDS, INVERT SUGAR, EGG WHITE 
+Ingredients; Milk Chocolate (Sugar, Milk, Cocoa Butter, Chocolate, Milkfat, Soy Lecithin-An Emulsifier, Vanillin-an Artificial Flavor), Sugar, Honey, Almonds, Invert Sugar, Egg White    
 
 
 Nutritional_Value; Total Fat: 10 g, Saturated Fat: 6 g, Trans Fat: 0 g, Cholesterol: <5mg, Sodium: 20 mg, Total Carbohydrate: 22 g, Dietary Fiber: 1 g, Sugars: 21 g, Protein: 2 g, Vitamin A: 2 %, Vitamin C: 0 %, Calcium: 6 %, Iron: 4 %   
