@@ -6,11 +6,11 @@ Specific_Product_Type; Shampoo
 
 Ingredients; Water (Aqua), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Fragrance (Parfum), Ppg-9, Polyquaternium-10, Tetrasodium Edta, Dmdm Hydantoin, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Yellow 10 (Ci 47005), Green 3 (Ci 42053)
 
-Nutritional_Value; 
+Nutritional_Value; None
 
-Energy; 
+Energy; None
 
-Date_Inserted; 29/09/17 ## put the date you made this file 
+Date_Inserted; 29/09/17 
 
 Distributed_Country; U.K.
 
