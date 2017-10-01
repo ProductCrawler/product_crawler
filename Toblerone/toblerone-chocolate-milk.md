@@ -1,4 +1,4 @@
-Product_Name; Toblerone Milk Chocalate
+Product_Name; TOBLERONE Swiss Milk Chocalate wit Honey & Almond Nougat 35g
 
 Product_Type; Food, Drinks & Beverages
 
