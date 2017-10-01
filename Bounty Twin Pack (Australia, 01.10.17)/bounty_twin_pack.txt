@@ -6,7 +6,7 @@ Specific_Product_Type; Chocolate, Candy
 
 Ingredients; Sugar, Desiccated Coconut, Glucose Syrup (Sources include Wheat), Milk Solids, Cocoa Butter, Cocoa Mass, Invert Sugar, Vegetable Fat, Emulsifiers (471, Soy Lecithin), Humectant (Glycerol), Salt, Natural Flavour (Vanilla Extract), Peanuts.
 
-Nutritional_Value; Protein: 0.7 g, Total Fat: 5.8 g, Saturated Fat: 4.5 g, Trans Fat: <0.1 g, Total Carbohydrates: 13.0 g, Sugars: 10.3 g, Sodium 21 mg
+Nutritional_Value; Protein: 0.7 g, Total Fat: 5.8 g, Saturated Fat: 4.5 g, Trans Fat: <0.1 g, Total Carbohydrates: 13.0 g, Sugars: 10.3 g, Sodium 21 mg / per 22.5 g serve
 
 Energy; 109cal (456kJ) / per 22.5 g serve
 
