@@ -12,7 +12,7 @@ Energy; None
 
 Date_Inserted; 01/10/17  
 
-Distributed_Country; U.S.A
+Distributed_Country; U.S.A.
 
 Family_Company; Johnson & Johnson
 
