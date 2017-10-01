@@ -12,7 +12,7 @@ Energy; 0.3 kcal (1.4 kJ) / 100 ml
 
 Date_Inserted; 1/10/17 ## put the date you made this file 
 
-Distributed_Country; U.K.
+Distributed_Country; U.K. , U.S.A
 
 Family_Company; Coca-Cola
 
