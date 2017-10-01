@@ -14,6 +14,6 @@ Date_Inserted; 01/10/17
 
 Distributed_Country; U.S.A
 
-Family_Company; Cape Cod Potato Chips Inc.
+Family_Company; Snyder's-Lance (Cape Cod Potato Chips Inc.)
 
 Source; Website: http://www.capecodchips.com/products/original-potato-chips/original-potato-chips.html
