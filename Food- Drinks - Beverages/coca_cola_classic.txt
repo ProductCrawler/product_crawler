@@ -1,0 +1,19 @@
+Product_Name; Coca-Cola Classic
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Drink
+
+Ingredients; Carbonated Water, Sugar, Colour (Caramel E150d), Phosphoric Acid, Natural Flavourings Including Caffeine.
+
+Nutritional_Value; Energy (kJ): 180 kJ, Carbohydrate: 10.6 g (of which sugars: 10,6g)
+
+Energy; 42kcal (kJ) / 100 mL
+
+Date_Inserted; 01/10/17
+
+Distributed_Country; United States
+
+Family_Company; The Coca-Cola Company
+
+Source; Website: http://www.coca-cola.co.uk/drinks/coca-cola/coca-cola
