@@ -19,12 +19,3 @@ Family_Company; Mondelez International
 
 Source; Website: http://us.toblerone.com/our-products/bars/toblerone%20milk
 
-
-
-
-1.23oz (35g)
-Swiss Milk Chocolate with Honey and Almond Nougat
-
-INGREDIENTS: MILK CHOCOLATE (SUGAR, MILK, COCOA BUTTER, CHOCOLATE, MILKFAT, SOY LECITHIN-AN EMULSIFIER, VANILLIN-AN ARTIFICIAL FLAVOR), SUGAR, HONEY, ALMONDS, INVERT SUGAR, EGG WHITE 
-
-CONTAINS: MILK, SOY, ALMOND, EGG. 
