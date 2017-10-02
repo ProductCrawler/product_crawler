@@ -8,7 +8,7 @@ Ingredients; Carbonated Water, Sugar, Citric Acid, Malic Acid, Acidity Regulator
 
 Nutritional_Value; Fat (of which saturates) 0 g / 100 ml , Carbohydrate (of which sugars) 6.6 g / 100 ml , Protein 0 g / 100 ml , Salt 0 g / 100 ml 
 
-Energy; 27.9 kcal (117 kJ) / 100 ml
+Energy; 28 kcal (117 kJ) / 100 ml
 
 Date_Inserted; 2/10/17  
 
