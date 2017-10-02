@@ -1,0 +1,19 @@
+Product_Name; Fanta Orange
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Beverage, Soda
+
+Ingredients; Carbonated Water, Sugar, Orange Fruit from Concentrate (5%), Citric Acid, Vegetable Concentrates (Carrot, Pumpkin), Natural Orange Flavourings with Other Natural Flavourings, Preservative (Potassium Sorbate), Malic Acid, Acidity Regulator (Sodium Citrate), Sweeteners (Acesulfame K, Aspartame), Antioxidant (Ascorbic Acid), Stabiliser (Guar Gum). Contains a Source of Phenylalanine.
+
+Nutritional_Value; Fat (of which saturates) 0 g / 100 ml , Carbohydrate (of which sugars) 6.9 g / 100 ml , Protein 0 g / 100 ml , Salt 0 g / 100 ml 
+
+Energy; 29 kcal (121 kJ) / 100 ml
+
+Date_Inserted; 2/10/17  
+
+Distributed_Country; U.S.A.
+
+Family_Company; The Coca-Cola Company
+
+Source; Website: http://www.coca-cola.co.uk/drinks/fanta/fanta-orange
