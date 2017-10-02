@@ -1,4 +1,4 @@
-Product_Name; Skippy Creamy Natural Peanut Butter (2 Tbsp / 32g)
+Product_Name; Skippy Creamy Natural Peanut Butter (Serving Size 2 Tbsp / 32g)
 
 Product_Type; Food, Drinks & Beverages
 
