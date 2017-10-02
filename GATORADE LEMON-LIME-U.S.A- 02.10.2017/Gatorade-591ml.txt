@@ -1,0 +1,19 @@
+Product_Name; GATORADE LEMON-LIME
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Sports Drinks
+
+Ingredients; Water, Sugar, Dextrose, Citric Acid, Salt, Sodium Citrate, Monopotassium Phosphate, Gum Arabic, Glycerol Ester of Rosin, Natural Flavor, Yellow 5
+
+Nutritional_Value; Sodium: 270 mg, Potassium: 75 mg, Carbohydrates (of which Sugars): 36 g (34 g), Protein: 0 g
+
+Energy; 23.6 kcal (99 kJ) / 100 ml
+
+Date_Inserted; 02/10/17 
+
+Distributed_Country; U.S.A
+
+Family_Company; Pepsico
+
+Source; Website: http://www.pepsicobeveragefacts.com/Home/Product?formula=33877&form=RTD&size=20
