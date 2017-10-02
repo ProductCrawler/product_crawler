@@ -2,7 +2,7 @@ Product_Name; Coca Cola Classic
 
 Product_Type; Food, Drinks & Beverages
 
-Specific_Product_Type; Beverage, Sugar free soda
+Specific_Product_Type; Beverage, Soda
 
 Ingredients; Carbonated Water, Sugar, Colour (Caramel E150d), Phosphoric Acid, Natural Flavourings Including Caffeine.
 
