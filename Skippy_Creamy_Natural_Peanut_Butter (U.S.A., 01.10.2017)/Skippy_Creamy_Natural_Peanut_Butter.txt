@@ -1,0 +1,19 @@
+Product_Name; Skippy Creamy Natural Peanut Butter (Serving Size 2 Tbsp / 32g)
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Peanut Butter
+
+Ingredients; Roasted Peanuts, Sugar, Palm Oil, Salt
+
+Nutritional_Value; Calories: 190, Calories from Fat: 140, Total Fat: 16 g, Saturated Fat: 3.5 g, Trans Fat: 0 g, Cholesterol: 0 mg, Sodium: 150 mg, Total Carbohydrate: 6 g, Dietary Fiber: 2 g, Sugar: 3 g, Protein: 7 g, Iron: 4 %, Niacin: 20 %, Vitamin E: 10 % / per serving
+
+Energy; 190cal / per serving
+
+Date_Inserted; 01/10/2107
+
+Distributed_Country; U.S.A.
+
+Family_Company; Unilever, Hormel (Skippy)
+
+Source; Label picture
