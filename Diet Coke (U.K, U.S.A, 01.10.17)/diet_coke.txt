@@ -2,7 +2,7 @@ Product_Name; Diet Coke
 
 Product_Type; Food, Drinks & Beverages
 
-Specific_Product_Type; Beverage, Calorie free soda
+Specific_Product_Type; Beverage, soda
 
 Ingredients; Carbonated Water, Colour (Caramel E150d), Sweeteners (Aspartame, Acesulfame K), Natural Flavourings Including Caffeine, Phosphoric Acid, Citric Acid. Contains a Source of Phenylalanine
 
@@ -12,7 +12,7 @@ Energy; 0.4 kcal (1.6 kJ) / 100 ml
 
 Date_Inserted; 10/1/17
 
-Distributed_Country; U.K., U.S.A
+Distributed_Country; U.K., U.S.A.
 
 Family_Company; The Coca-Cola Company
 
