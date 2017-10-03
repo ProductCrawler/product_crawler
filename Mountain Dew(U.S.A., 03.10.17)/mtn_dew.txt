@@ -1,0 +1,19 @@
+Product_Name; MTN DEW or Mountain Dew (Serving Size 20 fl oz, 591 mL)
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Beverage, Soda
+
+Ingredients; Carbonated water, high fructose corn syrup, concentrated orange juice, citric acid, natural flavor, sodium benzoate (preserves freshness), caffeine, sodium citrate, erythorbic acid (preserves freshness), gum arabic, calcium disodium edta (to protect flavor), brominated vegetable oil, yellow 5.
+
+Nutritional_Value; Total fat: 0g, Sodium: 105mg, Total carbohydrate: 77g (which all of them are sugars), Protein: 0g. / amount per serving
+
+Energy; 0.29kcal (1213.36 kJ) / amount per serving
+
+Date_Inserted; 03/10/17
+
+Distributed_Country; U.S.A.
+
+Family_Company; Pepsico
+
+Source; Website: http://www.pepsicobeveragefacts.com/Home/Product?formula=44316*01*01-07&form=RTD&size=20
