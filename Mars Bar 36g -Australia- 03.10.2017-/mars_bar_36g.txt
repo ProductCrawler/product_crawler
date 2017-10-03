@@ -1,0 +1,19 @@
+Product_Name; Mars Bar 36g
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Chocolate, Candy
+
+Ingredients; Sugar, Glucose Syrup (Sources include Wheat), Milk Solids, Vegetable Fat, Cocoa Butter, Cocoa Mass, Barley Malt Extract, Cocoa Powder, Emulsifier (Soy Lecithin), Salt , Egg White, Natural Flavour (Vanilla Extract).
+
+Nutritional_Value; Protein: 1.3 g, Total Fat: 6.2 g, Saturated Fat: 3.0 g, Trans Fat: <0.1 g, Total Carbohydrates: 25.7 g, Sugars: 20.8 g, Sodium: 52 mg / per 36 g serve
+
+Energy; 166cal (694kJ) / per 36 g serve
+
+Date_Inserted; 03/10/17 
+
+Distributed_Country; Australia
+
+Family_Company; Mars, Incorporated
+
+Source; Website: http://www.marschocolate.com.au/products/mars/mars-bar-36g/
