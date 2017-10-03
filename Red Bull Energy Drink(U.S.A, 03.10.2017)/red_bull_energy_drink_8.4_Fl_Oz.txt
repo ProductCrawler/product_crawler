@@ -1,0 +1,20 @@
+Product_Name; Red Bull Energy Drink 8.4 Fl Oz
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Beverage, Energy Drink 
+
+Ingredients;  Carbonated Water, Sucrose, Glucose, Citric Acid, Taurine, Sodium Bicarbonate, Magnesium Carbonate, Caffeine, Niacinamide, Calcium Pantothenate, Pyridoxine, HCL, Vitamin B12, Natural and Artificial Flavors, Colors
+
+Nutritional_Value; Total Fat: 0 g, Sodium: 100mg, Sugars: 27g, Caffeine: 80mg, Total Carbohydrate: 28g, Protein: less than 1g, Niacin: 100%, Vitamin B6: 250%, Pantothenic Acid: 50%, Vitamin B12: 80% (All percentages refer to percentage of daily values based on 2000 calorie diet) /  amount per serving
+
+Energy; 110 Calories (Serving Size 1 can)
+
+Date_Inserted; 03/10/2017 
+
+Distributed_Country; U.S.A. 
+
+Family_Company; Red Bull GmbH
+
+Source; Website: http://energydrink-us.redbull.com/en/red-bull-calories, http://energydrink.redbull.com/ingredients-red-bull 
+
