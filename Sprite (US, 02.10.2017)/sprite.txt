@@ -1,0 +1,19 @@
+Product_Name; Sprite
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Beverage, Soda
+
+Ingredients; Carbonated Water, Sugar, Citric Acid, Malic Acid, Acidity Regulator (Sodium Gluconate), Natural Lemon-Lime Flavourings, Sweetener (Steviol Glycosides)
+
+Nutritional_Value; Fat (of which saturates) 0 g / 100 ml , Carbohydrate (of which sugars) 6.6 g / 100 ml , Protein 0 g / 100 ml , Salt 0 g / 100 ml 
+
+Energy; 28 kcal (117 kJ) / 100 ml
+
+Date_Inserted; 2/10/17  
+
+Distributed_Country; U.K.
+
+Family_Company; The Coca-Cola Company
+
+Source; Website: http://www.coca-cola.co.uk/drinks/sprite/sprite
