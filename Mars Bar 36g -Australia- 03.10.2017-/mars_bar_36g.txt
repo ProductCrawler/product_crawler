@@ -1,4 +1,4 @@
-Product_Name; Mars Bar 40g
+Product_Name; Mars Bar 36g
 
 Product_Type; Food, Drinks & Beverages
 
