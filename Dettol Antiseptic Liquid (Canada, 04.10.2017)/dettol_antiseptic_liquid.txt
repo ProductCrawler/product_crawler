@@ -1,0 +1,20 @@
+Product_Name; Dettol Antiseptic Liquid
+
+Product_Type; Hygiene
+
+Specific_Product_Type; Antiseptic
+
+Ingredients; Water, Isopropyl Alcohol, Pinus Palustris Oil, Ricinus Communis (Castor) Seed Oil, Chloroxylenol, Sodium Hydroxide, Caramel Color
+
+
+Nutritional_Value; None
+
+Energy; 0kcal (0kJ) / 0 g
+
+Date_Inserted; 04/10/17 
+
+Distributed_Country; Canada.
+
+Family_Company; DETTOL
+
+Source; Website: http://rbnainfo.com/productpro/ProductSearch.do?brandId=12&productLineId=273&searchType=PL&template=1
