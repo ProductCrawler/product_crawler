@@ -1,5 +1,3 @@
-
-
 Product_Name; COLGATE TOTAL ADVANCED WHITENING GEL
 
 Product_Type; Hygiene
@@ -8,7 +6,7 @@ Specific_Product_Type; Toothpaste
 
 Ingredients; Active Ingredients: Sodium Fluoride 0.24% (0.15% w/v fluoride ion) - Anticavity, Triclosan 0.30% - Antigingivitis Inactive Ingredients: Water, Hydrated Silica, Glycerin, Sorbitol, Flavor, PVM/MA Copolymer, Sodium Lauryl Sulfate, Cellulose Gum, Sodium Hydroxide, Propylene Glycol, Carrageenan, Sodium Saccharin, Mica, Titanium Dioxide, FD&C blue no.1, D&C yellow no. 10
 
-Energy; 
+Energy; None
 
 Date_Inserted; 03/10/17
 
