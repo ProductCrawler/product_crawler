@@ -1,0 +1,20 @@
+Product_Name; Hershey's Caramel Syrup 22-Ounce
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Dessert Syrups and Sauces 
+
+Ingredients;  High Fructose Corn Syrup, Corn Syrup, Sweetened Condensed Skim Milk, Water, Disodium Phosphate( < 2% ), Sodium Citrate, Salt, Artificial Flavor, Caramel color, Xanthan gum 
+
+Nutritional_Value; Total Fat: 0g, Sodium: 60mg, Sugar: 10g,Total Carbohydrate: 13g, Protein: 0g, Dietary Fiber: 0g 
+
+Energy; 50 Calories (Serving Size 1 tbsp.)
+
+Date_Inserted; 04/10/2017 
+
+Distributed_Country; U.S.A.
+
+Family_Company; Hershey
+
+Source; Website: https://www.hersheys.com/en_us/products/hersheys-syrup-caramel-22-ounce-bottles.html
+
