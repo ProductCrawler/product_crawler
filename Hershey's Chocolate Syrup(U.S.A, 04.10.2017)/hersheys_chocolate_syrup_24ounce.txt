@@ -1,0 +1,20 @@
+Product_Name; Hershey's Chocolate Syrup 24-Ounce
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Dessert Syrups and Sauces 
+
+Ingredients;  High Fructose Corn Syrup, Corn Syrup, Water, Cocoa, Sugar, Potassium Sorbate, Salt, Mono- and Diglycerides, Xanthan gum, Polysorbate 60, Vanillin (Artificial flavor) 
+
+Nutritional_Value; Total Fat: 0g, Sodium: 5mg, Sugar: 10g, Total Carbohydrate: 12g, Proteins: 0g, Dietary Fiber: 1g 
+
+Energy; 45 Calories (Serving Size 1 tbsp.)
+
+Date_Inserted; 04/10/2017 
+
+Distributed_Country; U.S.A. 
+
+Family_Company; Hershey
+
+Source; Website: https://www.hersheys.com/en_us/products/hersheys-syrup-chocolate-24-ounce-bottles.html
+
