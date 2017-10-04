@@ -1,0 +1,20 @@
+Product_Name; Hershey's Strawberry Flavored Syrup 22-Ounce
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Dessert Syrups and Sauces 
+
+Ingredients;  High Fructose Corn Syrup, Water, Corn Syrup, Artificial Flavor ( < 2% ), Citric Acid, Sodium Benzoate (Preservative), Xanthan Gum, Artificial Color  
+
+Nutritional_Value; Total Fat: 0g, Sodium: 0mg, Sugar: 11g, Total Carbohydrate: 12g, Proteins: 0g, Dietary Fiber: 0g (Per Serving)
+
+Energy; 50 Calories (Serving Size 1 tbsp.)
+
+Date_Inserted; 04/10/2017 
+
+Distributed_Country; U.S.A.
+
+Family_Company; The Hershey Company
+
+Source; Website: https://www.hersheys.com/en_us/products/hersheys-strawberry-flavored-syrup-22-ounce-bottle.html
+
