@@ -6,7 +6,7 @@ Specific_Product_Type; Dessert Syrups and Sauces
 
 Ingredients;  High Fructose Corn Syrup, Corn Syrup, Sweetened Condensed Skim Milk, Water, Disodium Phosphate( < 2% ), Sodium Citrate, Salt, Artificial Flavor, Caramel color, Xanthan gum 
 
-Nutritional_Value; Total Fat: 0g, Sodium: 60mg, Sugar: 10g,Total Carbohydrate: 13g, Protein: 0g, Dietary Fiber: 0g 
+Nutritional_Value; Total Fat: 0g, Sodium: 60mg, Sugar: 10g, Total Carbohydrate: 13g, Proteins: 0g, Dietary Fiber: 0g 
 
 Energy; 50 Calories (Serving Size 1 tbsp.)
 
