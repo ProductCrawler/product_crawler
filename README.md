@@ -8,7 +8,7 @@ a significant service.
 Inspired by Hippocrates' quote: “Let food be thy medicine and medicine be thy food.” and by the more current one: "We are what we eat", we 
 made the Product Crawler. 
 This open source project aims on creating a database that stores important information about everyday products (it initially concerned 
-only food, edible products). Product information such as the ingredients, the nutritional value, conservatives, family companies etc.
+only food, edible products). Product information such as the ingredients, the nutritional value, preservatives, family companies etc.
 
 ## PROJECT GOAL 
 Our goal is to integrate the database into a website (currently on https://productcrawler.wixsite.com/home and on our new app https://play.google.com/store/apps/details?id=appeiro.productcrawler) that can be used by anybody to check the QUALITY of the products in the market. It is
