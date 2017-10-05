@@ -6,13 +6,13 @@ Specific_Product_Type; Chips
 
 Ingredients; Potatoes, Vegetable Oil (Sunflower, Corn and/or Canola Oil), and Sea Salt
 
-Nutritional_Value; Total Fat: 12 g, Saturate Fat: 1.5 g, Trans Fat: 0 g, Cholesterol: 0 mg, Sodium: 125 mg, Total Carbohydrate: 23 g, Dietary Fiber: 2 g, Total Sugars: 1 g, Protein: 3 g, Vitamin D: 0 mcg, Calcium: 10 mg, Iron: 0.8 mg, Potassium: 520 mg, Vitamin C: 10 % / serving
+Nutritional_Value; Total Fat: 13 g, Saturated Fat: 2 g, Trans Fat: 0 g, Cholesterol: 0 mg, Sodium: 120 mg, Total Carbohydrate: 22 g, Dietary Fiber: 2 g, Total Sugars: 1 g, Protein: 3 g, Vitamin A: 0%, Calcium: 0%, Iron: 4%, Potassium: 500 mg, Iron: 4%, Vitamin B6: 15%, Phosphorus: 4%, Magnesium:  6%, Zink: 2%, Vitamin C: 15 % / serving
 
-Energy; 210kcal (878.64kJ) / serving
+Energy; 210cal (878.64J) / serving
 
 Date_Inserted; 04/10/17
 
-Distributed_Country; U.S.A
+Distributed_Country; U.S.A.
 
 Family_Company; Frito-Lay(Miss Vickie's Co., LLC)
 
