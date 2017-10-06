@@ -1,19 +1,19 @@
-Product_Name; SNICKERS® Bar (36g)
+Product_Name; SNICKERS Bar (36g)
 
-Product_Type; Food
+Product_Type; Food, Drinks & Beverages
 
-Specific_Product_Type; Candy Bar
+Specific_Product_Type; Chocolate, Candy
 
 Ingredients; Sugar, Roasted Peanuts, Glucose Syrup (Sources include Wheat), Milk Solids, Cocoa Mass, Vegetable Fat, Cocoa Butter, Salt, Emulsifier (Soy Lecithin), Egg White, Natural Flavour (Vanilla Extract)
 
-Nutritional_Value; Protein: 3.1g, Fat(Total): 8.8g, Fat(saturated): 3.0g, Fat(trans): 0.2g, Carbohydrates(total): 20.6g, Carbohydrates(sugars): 17.9g, Sodium: 98mg
+Nutritional_Value; Protein: 3.1g, Fat(Total): 8.8g, Fat(saturated): 3.0g, Fat(trans): 0.2g, Carbohydrates(total): 20.6g, Carbohydrates(sugars): 17.9g, Sodium: 98mg / per 36g serve
 
-Energy; 485cal (2030kJ) / 100 g
+Energy; 177cal (741kJ) / per 36g server
 
 Date_Inserted; 06/10/17
 
 Distributed_Country; Australia
 
-Family_Company; Mars Chocolate
+Family_Company; Mars, Incorporated
 
 Source; Website: http://www.marschocolate.com.au/products/snickers/snickers-bar-36g/
