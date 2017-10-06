@@ -1,0 +1,19 @@
+Product_Name; PODS with MARS (160g)
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Milk Chocolate, Candy
+
+Ingredients; Sugar, Milk Solids, Flour (Sources include Wheat), Glucose Syrup (Sources Include Wheat), Vegetable Fat, Cocoa Butter, Cocoa Mass, Barley Malt Extract, Emulsifier (Soy Lecithin), Cocoa Powder, Salt, Natural Flavour.
+
+Nutritional_Value;Protein: 5.1 g, Carbohydrates(total): 68.4 g, Fat(total): 20.1 g, Sodium: 114 mg/ 100 g
+
+Energy; 480cal (2010kJ) / 100 g
+
+Date_Inserted; 06/10/17
+
+Distributed_Country; Australia
+
+Family_Company; Mars, Incorporated
+
+Source; Website: http://www.marschocolate.com.au/products/pods/pods-with-mars/
