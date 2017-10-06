@@ -5,9 +5,9 @@ Product_Type; Food, Drinks & Beverages
 
 Specific_Product_Type; Chocolate, Candy
 
-Ingredients; Sugar, Glucose Syrup (Sources include Wheat), Milk Solids, Vegetable Fat, Cocoa Butter, Cocoa Mass, Barley Malt Extract, Cocoa Powder, Egg White, Emulsifier (Soy Lecithin), Salt , Natural Flavour (Vanilla Extract).
+Ingredients; Sugar, Glucose Syrup (Sources include Wheat), Milk Solids, Vegetable Fat, Cocoa Butter, Cocoa Mass, Barley Malt Extract, Cocoa Powder, Egg White, Emulsifier (Soy Lecithin), Salt, Natural Flavour (Vanilla Extract).
 
-Nutritional_Value; Protein: 0.7 g, Fat total: 3.8 g, saturated 1.8 g, trans <0.1 g, Carbohydrates: total 18.4, sugars 14.5 g, Sodium:	16 mg
+Nutritional_Value; Protein: 0.7 g, Fat total: 3.8 g, saturated 1.8 g, trans <0.1 g, Carbohydrates: total 18.4, sugars 14.5 g, Sodium:	16 mg / 25g
 
 Energy; 113 cal (471 kJ) / 25 g
 
