@@ -1,4 +1,4 @@
-Product_Name; Celebrations 300g
+Product_Name; Celebrations (300g)
 
 Product_Type; Food, Drinks & Beverages
 
