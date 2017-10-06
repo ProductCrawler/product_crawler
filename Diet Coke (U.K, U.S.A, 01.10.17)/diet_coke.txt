@@ -10,7 +10,7 @@ Nutritional_Value; Fat (of which saturates) 0 g / 100 ml, Carbohydrate (of which
 
 Energy; 0.4 kcal (1.6 kJ) / 100 ml
 
-Date_Inserted; 10/1/17
+Date_Inserted; 01/10/17
 
 Distributed_Country; U.K.
 
