@@ -6,7 +6,7 @@ Specific_Product_Type; Milk Chocolate, Candy
 
 Ingredients; Sugar, Milk Solids, Flour (Sources include Wheat), Glucose Syrup (Sources Include Wheat), Vegetable Fat, Cocoa Butter, Cocoa Mass, Barley Malt Extract, Emulsifier (Soy Lecithin), Cocoa Powder, Salt, Natural Flavour.
 
-Nutritional_Value;Protein: 5.1 g, Carbohydrates(total): 68.4 g, Fat(total): 20.1 g, Sodium: 114 mg/ 100 g
+Nutritional_Value; Protein: 5.1 g, Carbohydrates(total): 68.4 g, Carbohydrates(sugars): 53.4 g, Fat(total): 20.1 g, Fat(saturated): 11.7 g, Fat(trans): 0.1 g, Sodium: 114 mg / 100 g
 
 Energy; 480cal (2010kJ) / 100 g
 
