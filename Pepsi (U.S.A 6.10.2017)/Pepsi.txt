@@ -4,15 +4,15 @@ Product_Type; Food, Drinks & Beverages
 
 Specific_Product_Type; Beverage, Soda
 
-Ingredients; Carbonated Water, High Fructose Corn Syrup, Carmel Color, Sugar, Phosphoric Acid, Caffeine, Citric Acid, Natural Flavor
+Ingredients; Carbonated Water, High Fructose Corn Syrup, Caramel Color, Sugar, Phosphoric Acid, Caffeine, Citric Acid, Natural Flavor
 
-Nutritional_Value; Total Fat: 0g, Sodium 30mg,  Total carbohydrate: 41g (which all of them are sugars), Protein: 0g / amount per serving
+Nutritional_Value; Total Fat: 0g, Sodium 30mg, Total carbohydrate: 41g (which all of them are sugars), Protein: 0g / amount per serving
 
 Energy; 0.15kcal (627.6kJ) / amount per serving
 
 Date_Inserted; 6/10/2017
 
-Distributed_Country; U.S.A
+Distributed_Country; U.S.A.
 
 Family_Company; Pepsico
 
