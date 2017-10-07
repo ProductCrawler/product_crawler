@@ -1,0 +1,19 @@
+Product_Name; MARS Bar (36g)
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Chocolate
+
+Ingredients; Milk Chocolate 40%,  Nougat 33%, Caramel 27%, Sugar, Glucose Syrup (Sources include Wheat), Milk Solids, Vegetable Fat, Cocoa Butter, Cocoa Mass, Barley Malt Extract, Cocoa Powder, Emulsifier (Soy Lecithin), Salt , Egg White, Natural Flavour (Vanilla Extract). Allergen information: Confectionery Contains Products Derived from Soy, Wheat, Milk, Egg and Barley. May be present: Peanuts & Treenuts
+
+Nutritional_Value; Protein: 3.6 g, Fat: -total 16.9 g -saturated 8.2 g -trans 0.2 g, Carbohydrates: -total 70.3 g -sugars 57.1 g, Sodium: 143 mg / 100 g
+
+Energy; 454cal (1900kJ) / 100g
+
+Date_Inserted; 25/09/17
+
+Distributed_Country; U.S.A., U.K., Australia
+
+Family_Company; Mars, Incorporated
+
+Source; Website: http://www.marschocolate.com.au/products/mars/mars-bar-36g/
