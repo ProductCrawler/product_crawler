@@ -1,0 +1,19 @@
+Product_Name; Dr Pepper (Serving Size 100 mL)
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Beverage, Soda
+
+Ingredients; Carbonated Water, Sugar, Colour (Caramel E150d), Phosphoric Acid, Preservative (Potassium Sorbate), Flavourings Including Caffeine, Sweeteners (Aspartame, Acesulfame K).
+
+Nutritional_Value; Total Fat: 0g, Salt 0 g,  Total Carbohydrate: 7.2g (which all of are sugars), Protein: 0g / 100 mL
+
+Energy; 29kcal (123kJ) / 100 mL
+
+Date_Inserted; 7/10/2017
+
+Distributed_Country; U.S.A
+
+Family_Company; The Coca-Cola Company
+
+Source; Website: http://www.coca-cola.co.uk/drinks/dr-pepper/dr-pepper
