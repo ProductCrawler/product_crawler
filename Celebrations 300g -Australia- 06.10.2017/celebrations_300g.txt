@@ -1,0 +1,20 @@
+Product_Name; Celebrations (300g)
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Milk Chocolate, Candy
+
+Ingredients; Sugar, Milk Solids, Glucose Syrup (Sources Include Wheat), Cocoa Butter, Cocoa Mass, Peanuts, Desiccated Coconut, Vegetable Fat, Emulsifiers (Soy Lecithin, 471), Barley Malt Extract, Salt, Cocoa Powder, Humectant (Glycerol), Egg White, Flour (Sources include Wheat), Flavours, Wheat Gluten, Raising Agents (500, 501).
+
+Nutritional_Value; Protein: 5.7 g, Carbohydrates(total): 63.5 g, Carbohydrates(sugars): 56.1 g, Fat(total): 24.5 g, Fat(saturated): 14.5 g, Fat(trans): 0.2 g, Sodium: 158 mg / 100 g
+
+Energy; 502cal (2100kJ) / 100 g
+
+Date_Inserted; 06/10/17  
+
+Distributed_Country; Australia
+
+Family_Company; Mars, Incorporated
+
+Source; Website: http://www.marschocolate.com.au/products/celebrations/celebrations-gift-box-300g/
+
