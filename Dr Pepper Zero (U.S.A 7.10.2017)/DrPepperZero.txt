@@ -4,15 +4,15 @@ Product_Type; Food, Drinks & Beverages
 
 Specific_Product_Type; Beverage, Soda
 
-Ingredients; Carbonated Water, Colour (Caramel E150d), Flavourings including Caffeine, Phosphoric Acid, Sweeteners (Aspartame, Acesulfame K), Preservative (Potassium Sorbate).
+Ingredients; Carbonated Water, Colour (Caramel E150d), Flavourings including Caffeine, Phosphoric Acid, Sweeteners (Aspartame, Acesulfame K), Preservative (Potassium Sorbate) Contains a Source of Phenylalanine.
 
-Nutritional_Value; Total Fat: 0g, Salt 0.02g,  Total Carbohydrate: 0g, Protein: 0g / 100mL
+Nutritional_Value; Total Fat: 0g, Salt 0.02g, Total Carbohydrate: 0g, Protein: 0g / 100mL
 
 Energy; 0.4kcal (1.8kJ) / 100mL
 
 Date_Inserted; 7/10/2017
 
-Distributed_Country; U.K
+Distributed_Country; U.K.
 
 Family_Company; The Coca-Cola Company
 
