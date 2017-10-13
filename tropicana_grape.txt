@@ -12,11 +12,8 @@ Energy; 0 cal (0 kJ) / 100 g
 
 Date_Inserted; 13/10/17 ## put the date you made this file 
 
-Distributed_Country; U.K.
+Distributed_Country; U.S.A
 
-Family_Company; Pepsico
+Family_Company; PEPSICO
 
 Source; Website: http://www.pepsicobeveragefacts.com/Home/product?formula=51000125&form=RTD&size=15.2
-
-## if you got the product info from the product's label write "Source; Label picture"
-## put honey_cheerios.txt and honey_cheerios.png into a folder named honey_cheerios and make a PR
