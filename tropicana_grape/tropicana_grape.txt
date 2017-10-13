@@ -1,0 +1,19 @@
+Product_Name; Tropicana Grape
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Flavored Juice Bevarage
+
+Ingredients; Filtered Water, High Fructose Corn Syrup, Grape Juice Concentrate, Citric Acid, Malic Acid, Natural Flavors and Ascorbic Acid (Vitamin C)
+
+Nutritional_Value; Saturated Fat: 0g, Trans Fat: 0g, Cholesterol: 0mg, Sodium: 50mg, Sugars: 72g, Vitamin C: 190%, Caffeine:   0mg
+
+Energy; 0 cal (0 kJ) / 100 g
+
+Date_Inserted; 13/10/17 ## put the date you made this file 
+
+Distributed_Country; U.S.A
+
+Family_Company; PEPSICO
+
+Source; Website: http://www.pepsicobeveragefacts.com/Home/product?formula=51000125&form=RTD&size=15.2
