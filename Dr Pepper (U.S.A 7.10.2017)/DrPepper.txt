@@ -4,7 +4,7 @@ Product_Type; Food, Drinks & Beverages
 
 Specific_Product_Type; Beverage, Soda
 
-Ingredients; Carbonated Water, Sugar, Colour (Caramel E150d), Phosphoric Acid, Preservative (Potassium Sorbate), Flavourings Including Caffeine, Sweeteners (Aspartame, Acesulfame K) Contains a Source of Phenylalanine.
+Ingredients; Carbonated Water, Sugar, Colour (Caramel E150d), Phosphoric Acid, Preservative (Potassium Sorbate), Flavourings Including Caffeine, Sweeteners (Aspartame, Acesulfame K). Contains a Source of Phenylalanine.
 
 Nutritional_Value; Total Fat: 0g, Salt 0 g, Total Carbohydrate: 7.2g (which all of are sugars), Protein: 0g / 100 mL
 
