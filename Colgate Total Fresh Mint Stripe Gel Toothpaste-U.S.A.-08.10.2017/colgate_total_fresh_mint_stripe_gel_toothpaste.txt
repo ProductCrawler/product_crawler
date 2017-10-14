@@ -1,4 +1,4 @@
-Product_Name; Colgate Total Clean in Between
+Product_Name; Colgate Total Fresh Mint Stripe Gel Toothpaste
 
 Product_Type; Hygiene
 
