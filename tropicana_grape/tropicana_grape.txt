@@ -6,13 +6,13 @@ Specific_Product_Type; Flavored Juice Bevarage
 
 Ingredients; Filtered Water, High Fructose Corn Syrup, Grape Juice Concentrate, Citric Acid, Malic Acid, Natural Flavors and Ascorbic Acid (Vitamin C)
 
-Nutritional_Value; Saturated Fat: 0g, Trans Fat: 0g, Cholesterol: 0mg, Sodium: 50mg, Sugars: 72g, Vitamin C: 190%, Caffeine:   0mg
+Nutritional_Value; Total Fat: 0g, Saturated Fat: 0g, Trans Fat: 0g, Cholesterol: 0mg, Sodium: 50mg, Total Carbohydrate: 72g - Sugars: 72g, Protein: 1g, Vitamin C: 190%, Caffeine: 0mg
 
 Energy; 0 cal (0 kJ) / 100 g
 
-Date_Inserted; 13/10/17 ## put the date you made this file 
+Date_Inserted; 13/10/17 
 
-Distributed_Country; U.S.A
+Distributed_Country; U.S.A.
 
 Family_Company; PEPSICO
 
