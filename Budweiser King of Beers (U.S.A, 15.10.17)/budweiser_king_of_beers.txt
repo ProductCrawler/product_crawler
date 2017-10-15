@@ -1,0 +1,20 @@
+Product_Name; Budweiser King of Beers
+
+Product_Type; Drinks & Beverages
+
+Specific_Product_Type; Beer
+
+Ingredients; Water, Barley Malt, Rice, Hops
+
+Nutritional_Value; Vitamin D: 2.8 µg, Vitamin C: 43 mg, Riboflavin (B2): 1 mg, Niacin: 12 mg, Vitamin B6: 0.96 mg, Folic Acid: 161 µg, Pantothenic Acid: 3.4 mg, Calcium: 491 mg, Iron: 11 mg, Fats (of which Saturates): 3.3 g (0.6 g), Carbohydrates (of which Sugars): 75 g (24 g), Fibre: 7.5 g, Protein: 8.4 g, Salt: 0.94 g / 100 g
+Nutritional_Value; Alcohol by Volume: 5%, Carbohydrates: 3g / 100 ml, Protein: 0.36 g / 100 ml
+
+Energy;  41kcal (171kJ) / 100 ml
+
+Date_Inserted; 15/10/17
+
+Distributed_Country; U.S.
+
+Family_Company; Budweiser
+
+Source; Website: http://tapintoyourbeer.com/index.cfm
