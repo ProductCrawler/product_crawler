@@ -1,0 +1,19 @@
+Product_Name; Budweiser 
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Beverage, Beer
+
+Ingredients; Water, Barley Malt, Rice, Hops, Yeast
+
+Nutritional_Value; Alcohol by Volume: 5%, Carbohydrates: 10.6 g (per 12 fl. oz.), Protein: 1.3 g (per 12 fl. oz.), Fat: 0 g. Because brewing is a natural process, values are approximate and may vary slightly. Alcohol content will differ depending on the market in which the product is sold due to state regulations of permissible alcohol content. For example, in some markets, Budweiser may not exceed 3.2% alcohol by weight or 4% by volume.
+
+Energy; 145 / per 12 fl. oz.
+
+Date_Inserted; 15/10/17
+
+Distributed_Country; U.S.A.
+
+Family_Company; Anheuser-Busch Companies, LLC
+
+Source; Website: http://tapintoyourbeer.com/index.cfm
