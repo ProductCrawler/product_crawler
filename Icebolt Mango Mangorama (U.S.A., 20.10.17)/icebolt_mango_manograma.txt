@@ -1,0 +1,19 @@
+Product_Name; Icebolt Mango Mangorama
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Frozen Beverages
+
+Ingredients; Water, High Fructose Corn Syrup, Citric Acid, Quillaia Extract, Natural Flavor, Yucca Mohave Extract, Sodium Benzoate (Preserves Freshness), Potassium Sorbate (Preserves Freshness), Yellow 6
+
+Nutritional_Value; Total Fat: 0g, Sodium: 15mg, Total Carbohydrate: 17g, Sugars: 17g, Protein: 0g, Caffeine: 0mg, Potassium: 0mg, Phosphorus: 0mg, Common Allergens: None
+
+Energy; 60 cal (251J) / 100 g
+
+Date_Inserted; 20/10/17
+
+Distributed_Country; U.S.A
+
+Family_Company; PEPSICO
+
+Source; Website: http://www.pepsicobeveragefacts.com/Home/Product?formula=F0000003402&form=FRZ&size=8
