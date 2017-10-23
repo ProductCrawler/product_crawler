@@ -6,7 +6,7 @@ Specific_Product_Type; Beef Snack
 
 Ingredients; beef, mechanically separated chicken, lactic acid starter culture, dextrose, salt, sodium nitrite and hydrolyzed soy
 
-Nutritional_Value; Calories: 40, Total Fat: 13g, Cholesterol: 30mg, Sodium: 550mg, Carbohydrate: 5g, Sugars: 1g, Protein: 7g
+Nutritional_Value; Total Fat: 13g, Cholesterol: 30mg, Sodium: 550mg, Carbohydrate: 5g, Sugars: 1g, Protein: 7g / amount per serving
 
 Energy; 40cal / 8 g
 
