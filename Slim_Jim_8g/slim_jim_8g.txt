@@ -1,6 +1,6 @@
 Product_Name; Slim Jim (8g)
 
-Product_Type; Food
+Product_Type;  Food, Drinks & Beverages
 
 Specific_Product_Type; Beef Snack
 
