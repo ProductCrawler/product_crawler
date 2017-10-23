@@ -6,7 +6,7 @@ Specific_Product_Type; Orange Juice, Beverage
 
 Ingredients; 100% PURE ORANGE JUICE FROM CONCENTRATE (FILTERED WATER AND CONCENTRATED ORANGE JUICE) AND NATURAL FLAVORS.**INGREDIENT NOT FOUND IN REGULAR ORANGE JUICE. Caffeine: 0 mg, Phosphorus: 63 mg (6% DV)
 
-Nutritional_Value; Total Fat: 0 g , Cholesterol 0 mg, Sodium: 30 mg, Total Carbohydrate: 51 g - Dietary Fiber: 0 g - Sugars: 42 g, Protein: 3 g, Potassium 850 mg / amount per serving
+Nutritional_Value; Total Fat: 0 g , Cholesterol 0 mg, Sodium: 30 mg, Total Carbohydrate: 51 g - Dietary Fiber: 0 g - Sugars: 42 g, Protein: 3 g, Potassium 850 mg / amount per serving. Vitamin A: 0%, Vitamin C: 190%, Calcium: 4%, Iron: 0%, Thiamine: 20%, Riboflavin: 4%, Niacin: 4%, Vitamin B6: 8%, Folate: 30%, Magnesium: 10% - (% DV)
 
 Energy; 210 cal / amount per serving
 
