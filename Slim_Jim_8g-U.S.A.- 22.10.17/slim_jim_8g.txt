@@ -8,12 +8,12 @@ Ingredients; beef, mechanically separated chicken, lactic acid starter culture, 
 
 Nutritional_Value; Calories: 40, Total Fat: 13g, Cholesterol: 30mg, Sodium: 550mg, Carbohydrate: 5g, Sugars: 1g, Protein: 7g
 
-Energy; 40cal (2030kJ) / 8 g
+Energy; 40cal / 8 g
 
 Date_Inserted; 22/10/17
 
-Distributed_Country; USA
+Distributed_Country; U.S.A.
 
-Family_Company; Slim Jim
+Family_Company; ConAgra Brands
 
 Source; Website: http://www.slimjim.com/
