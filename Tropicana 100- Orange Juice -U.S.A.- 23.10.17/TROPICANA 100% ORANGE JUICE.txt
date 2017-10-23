@@ -1,0 +1,19 @@
+Product_Name; Tropicana 100% Orange Juice  (450 ml/15.2 fl oz)
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Orange Juice, Beverage
+
+Ingredients; 100% PURE ORANGE JUICE FROM CONCENTRATE (FILTERED WATER AND CONCENTRATED ORANGE JUICE) AND NATURAL FLAVORS.**INGREDIENT NOT FOUND IN REGULAR ORANGE JUICE. Caffeine: 0 mg, Phosphorus: 63 mg (6% DV)
+
+Nutritional_Value; Total Fat: 0 g , Cholesterol 0 mg, Sodium: 30 mg, Total Carbohydrate: 51 g - Dietary Fiber: 0 g - Sugars: 42 g, Protein: 3 g, Potassium 850 mg / amount per serving
+
+Energy; 210 cal / amount per serving
+
+Date_Inserted; 23/10/17 
+
+Distributed_Country; U.S.A.
+
+Family_Company; PEPSICO
+
+Source; Website: Website: http://www.pepsicobeveragefacts.com/Home/Product?formula=F0000000141&form=RTD&size=15.2
