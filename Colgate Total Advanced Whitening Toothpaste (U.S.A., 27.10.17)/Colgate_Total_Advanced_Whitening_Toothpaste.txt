@@ -1,0 +1,19 @@
+Product_Name; Colgate Total Advanced Whitening Toothpaste
+
+Product_Type; Hygiene
+
+Specific_Product_Type; Toothpaste
+
+Ingredients; Active Ingredients: Sodium Fluoride 0.24% (0.15% w/v fluoride ion) - Anticavity, Triclosan 0.30% - Antigingivitis, Inactive Ingredients: Water, Hydrated Silica, Glycerin, Sorbitol, PVM/MA Copolymer, Sodium Lauryl Sulfate, Flavor, Cellulose Gum, Sodium Hydroxide, Propylene Glycol, Carrageenan, Sodium Saccharin, Titanium Dioxide
+
+Nutritional_Value; None
+
+Energy; 0kcal (0kJ) / 0 g
+
+Date_Inserted; 27/10/17
+
+Distributed_Country; U.S.A.
+
+Family_Company; Colgate-Palmolive Company
+
+Source; Website: http://www.colgatetotal.com/health-benefits/toothpaste-ingredients
