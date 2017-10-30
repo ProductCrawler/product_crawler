@@ -1,0 +1,19 @@
+Product_Name; Colgate Advanced Fresh Whitening Gel
+
+Product_Type; Hygiene
+
+Specific_Product_Type; Toothpaste
+
+Ingredients; (Not avaialble)
+
+Nutritional_Value; None
+
+Energy; None
+
+Date_Inserted; 30/10/17
+
+Distributed_Country; U.K, U.S.A, Canada, India
+
+Family_Company; Colgate-palmolive
+
+Source; Website: http://www.colgatetotal.com/toothpaste/fresh-whitening
