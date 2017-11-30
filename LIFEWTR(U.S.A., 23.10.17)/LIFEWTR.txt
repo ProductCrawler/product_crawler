@@ -1,0 +1,19 @@
+Product_Name; LIFEWTR (355 mL/12 fl oz)
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Water
+
+Ingredients; PURIFIED WATER (PURIFIED BY REVERSE OSMOSIS), MAGNESIUM SULFATE, POTASSIUM BICARBONATE
+
+Nutritional_Value; Total Fat: 0 g , Sodium: 0 mg, Total Carbohydrate: 0 g , Sugars: 0 g, Protein: 0 g, % Juice: 0, Caffeine: 0 mg, Potassium: 0 mg (0% DV), Phosphorus: 0 mg (0% DV) / amount per serving
+
+Energy; 0cal
+
+Date_Inserted; 23/10/17 
+
+Distributed_Country; U.S.A.
+
+Family_Company; PEPSICO
+
+Source; Website: http://www.pepsicobeveragefacts.com/Home/Product?formula=F0000004528&form=RTD&size=23.7
