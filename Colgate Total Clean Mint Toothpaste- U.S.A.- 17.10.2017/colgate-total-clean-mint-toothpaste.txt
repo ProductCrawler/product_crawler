@@ -1,0 +1,19 @@
+Product_Name; Colgate Total Clean Mint Toothpaste
+
+Product_Type; Hygiene
+
+Specific_Product_Type; Toothpaste
+
+Ingredients; Active Ingredients: Sodium Fluoride 0.24% (0.14% w/v fluoride ion) - Anticavity, Triclosan 0.30% - Antigingivitis, Inactive Ingredients: Water, Hydrated Silica, Glycerin, Sorbitol, PVM/MA Copolymer, Sodium Lauryl Sulfate, Cellulose Gum, Flavor, Sodium Hydroxide, Carrageenan, Propylene Glycol, Sodium Saccharin, Mica, Titanium Dioxide
+
+Nutritional_Value; None
+
+Energy; 0kcal (0kJ) / 0 g
+
+Date_Inserted; 17/10/17
+
+Distributed_Country; U.S.A.
+
+Family_Company; Colgate-Palmolive Company
+
+Source; Website: http://www.colgatetotal.com/toothpaste/clean-mint
